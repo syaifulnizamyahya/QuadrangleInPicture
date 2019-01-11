@@ -29,7 +29,7 @@ int main()
 		{
 			break;
 		}
-		//imshow("Video", frame);
+		imshow("Video", video);
 
 		// video source
 		vector<Point> left_image;      
